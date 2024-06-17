@@ -11,5 +11,8 @@
     "url": "Test-Package-Repo"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@rjones18:registry": "https://npm.pkg.github.com"
+  }
 }
